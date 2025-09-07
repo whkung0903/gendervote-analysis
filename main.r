@@ -345,7 +345,7 @@ chi_results <- lapply(x_vars, function(var) {
   ))
 
 ## Save chi-square results
-write.csv(chi_results, "chi_square_results_v3.csv", row.names = FALSE)
+write.csv(chi_results, "chi_square_results.csv", row.names = FALSE)
 
 ## ---------------------------
 ## 8) Visualization — stacked percentage bars for selected variables
@@ -355,7 +355,7 @@ selected_variables <- c("f3","a4","a5","a6","a7","a8",
                         "a12","j10a","j10b","j10c","j10e","j10f",
                         "c4","e6c","e8b","e11a","e11d","j2b","j2c")
 
-viz_data <- read.csv("chi_square_results_v3.csv", stringsAsFactors = FALSE) %>%
+viz_data <- read.csv("chi_square_results.csv", stringsAsFactors = FALSE) %>%
   dplyr::filter(Variable %in% selected_variables)
 
 ## Parse helper

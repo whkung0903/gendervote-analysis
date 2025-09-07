@@ -37,8 +37,8 @@ Key findings suggest that political orientation is not directly associated with 
 4. Extend to comparative East Asian datasets for cross-country analysis
 
 ## 📚References
-Taiwan Social Change Survey (TSCS, 2022 Gender Module)
-Xu, Y. (2009). Gender equality attitudes and family roles in Taiwan.
-Wu, W. (2011). Gender attitudes and family power dynamics in Taiwan.
-Lin, P. (2017). Support for marriage equality in Taiwan.
-Wang, W., Chen, M., & Zhang, R. (2018). Partisan orientation and attitudes toward marriage equality in Taiwan.
+- Taiwan Social Change Survey (TSCS, 2022 Gender Module)
+- Xu, Y. (2009). Gender equality attitudes and family roles in Taiwan.
+- Wu, W. (2011). Gender attitudes and family power dynamics in Taiwan.
+- Lin, P. (2017). Support for marriage equality in Taiwan.
+- Wang, W., Chen, M., & Zhang, R. (2018). Partisan orientation and attitudes toward marriage equality in Taiwan.
